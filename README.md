@@ -1,5 +1,5 @@
 # Wheel Of Sucess
-[Demo Wheel Of Sucess Here](https://yog9.github.io/Interactive-video-player/)
+[Demo Wheel Of Sucess Here]( https://yog9.github.io/Wheel-Of-Sucess/)
 
 ### Summary
 Wheel Of Sucess is a browser version of a word guessing game. I used Javascript to come up with a random phrase that players will try to guess by clicking letters from an onscreen keyboard to try to guess the random phrase.
