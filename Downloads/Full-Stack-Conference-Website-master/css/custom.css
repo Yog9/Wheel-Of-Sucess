@@ -1,0 +1,11 @@
+.nav-bar .navbar-brand
+{
+color:rgba(255,255,255,0.85);
+font-size:1rem;
+}
+.jumbotron
+{
+
+	background-image:url("/home/yogita/Desktop/bootstrap/img/jumbo.jpg");
+	background-size: cover;
+}
